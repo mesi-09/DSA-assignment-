@@ -1,4 +1,8 @@
 # DSA-assignment-
+Name Meseret Gete
+group 2
+id 6229/23
+
 this is the DSA assignment from chapter one and two 
  Individual assignments 1
 •	Write an algorithm for finding the smallest number in the list/array?
