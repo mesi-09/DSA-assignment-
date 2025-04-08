@@ -1,4 +1,8 @@
 # DSA-assignment-
+Name Meseret Gete
+group 2
+id 6229/23
+
 this is the DSA assignment from chapter one and two 
  Individual assignments 1
 •	Write an algorithm for finding the smallest number in the list/array?
@@ -116,6 +120,19 @@ Time Complexity:
 •	Best case: O(log log n) — when the data is uniformly distributed.
 •	Worst case: O(n) — if the data is not uniformly distributed.
 •	Space Complexity: O(1) — constant space usage.
+
+
+
+![Screenshot (262)_edited](https://github.com/user-attachments/assets/a786c50e-8482-4bd0-be95-9c57e99d45f7)
+![Screenshot (263)_edited](https://github.com/user-attachments/assets/5c475b89-924a-46f8-b438-2e6cf0375165)
+![Screenshot (264)_edited](https://github.com/user-attachments/assets/49dabbf0-768b-4f74-96fe-f3cfa091ebd8)
+![Screenshot (265)_edited](https://github.com/user-attachments/assets/8e618ab4-4148-4485-b17a-73040797026d)
+![Screenshot (266)_edited](https://github.com/user-attachments/assets/e513310f-55d5-401b-a33f-b5c8e961c296)
+![Screenshot (267)_edited](https://github.com/user-attachments/assets/0dbb40a6-44c7-4341-9ec5-c32eab6ff82e)
+![Screenshot (268)_edited](https://github.com/user-attachments/assets/8187f9df-4e74-4f8b-8014-18d58b9e8eb1)
+![Screenshot (269)_edited](https://github.com/user-attachments/assets/c82ed0ba-a50b-4454-9c02-86a1a5dcb7f9)
+![Screenshot (270)_edited](https://github.com/user-attachments/assets/d6b95d88-042e-4901-b2b9-6fc0a0600ef7)
+
 
 
 
